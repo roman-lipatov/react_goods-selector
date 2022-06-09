@@ -1,0 +1,2 @@
+.list{display:flex;flex-direction:column;max-width:300px;font-size:30px}.list__item{display:flex;flex-direction:row;justify-content:space-between}.list__item:not(:last-child){padding-bottom:5px}.button{border-radius:10px}.button--true{border-color:#7fff00}.button--false{border-color:#9932cc}
+/*# sourceMappingURL=main.037b62e6.chunk.css.map */
